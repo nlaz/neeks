@@ -37,7 +37,7 @@ Here is my current ritual for starting something new. Helps gets me out of a blo
 
 # algorithms for progress
 
-These algorithms are similiar ways that organizations have measured progress. You can see how this feedback loop can be applied in difference ways.
+These algorithms are similiar ways that organizations have measured progress. You can see how this feedback loop can be applied in different ways.
 
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop) - observe, orient, decide, act
 - [JTBD](https://en.wikipedia.org/wiki/Product_innovation#Theories_of_product_innovation) - define the job that the customer needs to get done
