@@ -30,8 +30,12 @@ Perfect isn’t the goal — progress is. And progress only happens when we embr
 # ritual
 Here is my current ritual for starting something new. Helps gets me out of a block into a flow of work.
 
-- open up notepad ☞ write down goal ☞ list every substep
-- open environment ☞ copy substep into page ☞ complete substep
+- open up notepad 
+- write down goal 
+- list every substep
+- open environment
+- copy substep into page
+- complete substep
 - repeat until done
 
 
