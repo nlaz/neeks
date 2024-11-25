@@ -1,0 +1,60 @@
+body {
+  background-color: #f8f8f8;
+  background-image: url('egg-shell.png');
+}
+
+.ibm-plex-mono-regular {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-mono-medium {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ibm-plex-mono-semibold {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.ibm-plex-sans-regular {
+  font-family: "IBM Plex Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-sans-medium {
+  font-family: "IBM Plex Sans", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ibm-plex-sans-semibold {
+  font-family: "IBM Plex Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h1 {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+ul {
+  margin-top: 0.5rem;
+  list-style-type: circle;
+  padding-left: 1rem;
+}
+
+p, li {
+  font-size: 0.875rem;
+}
+
+p {
+  line-height: 1.25;
+}

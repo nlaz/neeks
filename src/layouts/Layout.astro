@@ -1,0 +1,47 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A simple blog with RSS feed" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml" />
+    <title>{title}</title>
+    <link rel="stylesheet" href="/tachyons.min.css" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet">
+  </head>
+  <body class="ibm-plex-sans-regular pv4 flex flex-column items-center justify-between ba min-vh-100">
+    <div class="f5 measure-wide w-100 flex-auto mt4">
+      <div class="flex justify-between items-center ibm-plex-sans-regular">
+        <a href="/" class="no-underline black">
+        <h1 class="f6 fw3 mv0"><span class="ibm-plex-sans-medium">Niko Lazaris</span> <span class="f7 h1">✤</span> your friendly neighborhood dev</h1>
+        </a>
+        <nav>
+          <div class="flex items-center">
+            <a class="f6 mh1" href="/about" class="">About</a>
+            <a class="f6 mh1" href="/rss.xml">RSS</a>
+          </div>
+        </nav>
+      </div>
+      <hr/>
+      <main class="pv2">
+        <slot />
+      </main>
+    </div>
+    <footer class="f7 silver mt5">Copyright © 2024</footer>
+  </body>
+</html>
