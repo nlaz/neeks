@@ -16,7 +16,7 @@ Beginnings are messy. Always. And that’s how they should be.
 
 If we waited for perfect, we’d never start anything. Ideas don’t arrive fully formed; they evolve through iterations and stumbles. Like a sculpture, they take time to shape and refine.
 
-Action takes courage? Not necessarily. Action frequently requires lowering the stakes. Shoot for the first draft of the first version. Treat the project as a work in progress rather than a defining moment. Start so small that it feels laughable. Take actions that are so tiny they hardly register.
+Action takes courage? Not necessarily. Action requires lowering the stakes. Shoot for the first draft of the first version. Treat the project as a work in progress rather than a defining moment. Start so small that it feels laughable. Take actions that are so tiny they hardly register.
 
 Perfect isn’t the goal — progress is. And progress only happens when we embrace the mess and take the first step.
 
