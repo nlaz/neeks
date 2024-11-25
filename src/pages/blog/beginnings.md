@@ -40,7 +40,7 @@ Here is my current ritual for starting something new. Helps gets me out of a blo
 These algorithms are similiar ways that organizations have measured progress. You can see how this feedback loop can be applied in different ways.
 
 - [OODA](https://en.wikipedia.org/wiki/OODA_loop) - observe, orient, decide, act
-- [JTBD](https://en.wikipedia.org/wiki/Product_innovation#Theories_of_product_innovation) - define the job that the customer needs to get done
+- [JTBD](https://en.wikipedia.org/wiki/Product_innovation#Theories_of_product_innovation) - define the job that the customer needs done
 - [GSMC](https://medium.com/buzzfeed-design/introducing-buzzfeeds-design-process-4fefbdcd83ea#:~:text=The%20Product%20Design%20Feedback%20Loop) - gather, synthesize, make, communicate
 - [LBS](https://mlh.io/about#:~:text=Learn.%20Build.%20Share.) - learn, build, share from the hackathon mindset
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development) - write a test before writing the code
