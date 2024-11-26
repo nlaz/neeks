@@ -16,7 +16,7 @@ _I think this also explains the feeling of displacement when individual contribu
 
 The theory revolves around how tightly your job is tied to your identity. People that frequently identify as their job title. How much does this sound like you? How often do you find yourself saying something like “I am an engineer doing engineer-y things on an engineering team.” How often do you answer “I work at X” when people ask “What do you do?”.
 
-If this sounds like you, you might be feeling down on yourself if your job hasn’t been popping recently. If you are still nodding along to this, I’ve got a great suggestion for you: develop a hobby. Hobbies are a way to decouple your self worth from your job. Hobbies allow you to relate to other areas in your life without depending on your job.
+If this sounds like you, you might be feeling down on yourself if your job hasn’t been popping recently. If you are still nodding along to this, I’ve got a great suggestion for you: develop a hobby. Hobbies are a way to <a href="https://en.wikipedia.org/wiki/Coupling_(computer_programming)">decouple</a> your self worth from your job. Hobbies allow you to relate to other areas in your life without depending on your job.
 
 <br/>
 
