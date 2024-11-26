@@ -5,11 +5,6 @@ pubDate: 2024-11-25
 description: how to start something new
 ---
 
-![Ianus](/images/ianus.jpg)
-*Ianus god of beginnings*
-
-
-
 # beginnings
 
 Beginnings are messy. Always. And that’s how they should be.
@@ -22,14 +17,21 @@ Action requires lowering the stakes. Shoot for the first sentence of the first d
 
 Perfect isn’t the goal — progress is. And progress only happens when we accept the mess and take the first step.
 
-# favorite beginnings
+<br/>
+
+![Ianus](/images/ianus.jpg)
+*Ianus god of beginnings*
+
+<br/>
+
+## favorite beginnings
 
 - [first rust commit](https://github.com/graydon/rust-prehistory/commit/b0fd440798ab3cfb05c60a1a1bd2894e1618479e) - Lays out the vision of the language
 - [first git commit](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290) - A meta-commit that sets the stage for git
 - [first node commit](https://github.com/nodejs/node/commit/61890720c8a22a7f1577327b32a180a2d267d765) - A heavily commented v8 processor
 
 
-# ritual
+## ritual
 Here is my current ritual for starting something new. Helps gets me out of a block into a flow of work.
 
 - open up notepad 
@@ -41,7 +43,7 @@ Here is my current ritual for starting something new. Helps gets me out of a blo
 - repeat until done
 
 
-# algorithms for progress
+## algorithms for progress
 
 These algorithms are similiar ways that organizations have measured progress. You can see how this feedback loop can be applied in different ways.
 
