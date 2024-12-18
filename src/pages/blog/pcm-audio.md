@@ -6,6 +6,7 @@ description: a breakdown of the pcm audio format
 ---
 
 # Pulse-code modulation
+_a breakdown of the pcm audio format_
 
 Pulse-code modulation (PCM) is a method used to digitally represent analog signals. It works simply by capturing the amplitude of an audio signal over time. It is a standard form of digital audio in computers and CDs. I'm writing this to demystify the format and to understand how it works.
 
