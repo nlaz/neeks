@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/Layout.astro
-title: decoupling yourself
+title: microservices and you
 pubDate: 2024-11-26
-description: how to be more resilient
+description: system design for resilient identity
 ---
 
 # decoupling yourself
@@ -12,7 +12,7 @@ Here’s my theory. Hobbies are <a href="https://www.youtube.com/watch?v=y8OnoxK
 
 That’s what happened to me. I was gainfully employed as a software engineer. Then I left that job to work for myself for a year. During that time, the lack of a bona fide role at a proper company made me feel a bit lost. My theory is I could have saved some confusion and frustration by having a healthy hobby.
 
-_I think this also explains the feeling of displacement when individual contributors find their roles suddenly changed to management._ 
+_I think this also explains the feeling of displacement when individual contributors find their roles suddenly changed to management._
 
 The theory revolves around how tightly your job is tied to your identity. People that frequently identify as their job title. How much does this sound like you? How often do you find yourself saying something like “I am an engineer doing engineer-y things on an engineering team.” How often do you answer “I work at X” when people ask “What do you do?”.
 
