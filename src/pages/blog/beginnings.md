@@ -5,6 +5,10 @@ pubDate: 2024-11-25
 description: how to start something new
 ---
 
+<img src="/images/ianus.jpg" alt="ianus" width="400" class="db center mx-auto ba" />
+
+<div class="db tc mt2 i f6 mb4">Ianus god of beginnings</div>
+
 # beginnings
 
 Beginnings are messy. Always. And that’s how they should be.
@@ -17,13 +21,6 @@ Action requires lowering the stakes. Shoot for the first sentence of the first d
 
 Perfect isn’t the goal — progress is. And progress only happens when we accept the mess and take the first step.
 
-<br/>
-
-![Ianus](/images/ianus.jpg)
-*Ianus god of beginnings*
-
-<br/>
-
 ## favorite beginnings
 
 - [first rust commit](https://github.com/graydon/rust-prehistory/commit/b0fd440798ab3cfb05c60a1a1bd2894e1618479e) - Lays out the vision of the language
@@ -34,8 +31,8 @@ Perfect isn’t the goal — progress is. And progress only happens when we acce
 ## ritual
 Here is my current ritual for starting something new. Helps gets me out of a block into a flow of work.
 
-- open up notepad 
-- write down goal 
+- open up notepad
+- write down goal
 - list every substep
 - open environment
 - copy substep into page

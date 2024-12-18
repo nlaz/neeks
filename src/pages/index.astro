@@ -1,12 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
 const posts = await Astro.glob('./blog/*.md');
+const sorted = posts.sort((a, b) => new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate));
 ---
 
 <Layout title="Welcome home">
   <h1 class="f5">Recent Posts</h1>
   <div class="posts">
-    {posts.map(post => (
+    {sorted.map(post => (
       <div class="pv1">
         <div class="flex justify-between items-center">
           <h2 class="f5 mv0"><a href={post.url}>{post.frontmatter.title}</a></h2>

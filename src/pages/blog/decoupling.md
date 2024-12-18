@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/Layout.astro
-title: microservices and you
+title: microservices & you
 pubDate: 2024-11-26
 description: a system design for resilient identity
 ---
 
-# microservices and you
+# microservices & you
 _a system design for resilient identity_
 
 Here’s my theory. Hobbies are <a href="https://www.youtube.com/watch?v=y8OnoxKotPQ">microservices</a> for people. Without a hobby, you could become too dependent on your job. Without a hobby, your self worth might become too attached with your current role at your company. If your job suddenly changes, that’s going to eat up a lot of your self-worth.
